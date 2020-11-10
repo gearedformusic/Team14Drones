@@ -3,3 +3,6 @@ Unity SteamVR Interactable notes
 Properties of drone objects:
   grabbable, but not throwable - done!
   rigitbody - should not pass through solid objects
+
+restore original parent
+release velocity style
