@@ -1,0 +1,8 @@
+there's an option for RigidBodies to Freeze them both for their xyz coordinates and xyz rotation. it's right in the menu, wish i'd tried it out sooner.
+those Freeze checkboxes accomplish the goal of making the drones stay in place upon being moved to a new location
+
+haven't gotten the function to apply to the drone model yet; so far just tried on a sphere.
+
+maybe make a small sphere collider on the drone instead of the full mesh? idk the mesh seems to cause lag bc of how complex the object is...
+
+goal for friday: apply the freezing rigidbody to the drone and get that working!
